@@ -10,4 +10,4 @@
   目前是以每周一题的形式驱动，到了后期我们会变成每日一题，供大家学习交流
 #### It is currently driven in the form of a weekly question. In the later stage, we will become a daily issue for everyone to learn and exchange.
   
-edited by gorit on 2019年6月1日
+Edited by gorit on 2019年6月1日
