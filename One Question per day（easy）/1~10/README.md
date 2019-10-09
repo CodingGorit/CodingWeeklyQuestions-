@@ -1,5 +1,7 @@
-这是一个长期慢慢积累的过程，也是我想做的事情，网上也有很多100例题经典例题，都编写的很不错，我会从中收录一些适合各个阶段编程的同学进行复习，查漏补缺用，我会用c，java，python等一些多种程序语言实现它们，同时也是为了自己巩固加强
-
+#### 寄语
+这是一个长期慢慢积累的过程，也是我想做的事情，网上也有很多100例题经典例题，都编写的很不错，我会从中收录一些适合各个阶段编程的同学进行复习，查漏补缺用，我会用c/c++，java，python等更多种类程序语言（当然是不同的方法）实现它们，然后尽可能得使该项目更加完善。当然，不管我后面用得是哪类编程语言，最核心得一点使编程思想，这个弄懂了，其它得一样能够融会贯通得做出来 
+	
+	edited by Gorit on 2019年10月9日
 
 # 一、A + B 问题 
 ### 1.1 问题描述 
@@ -29,7 +31,6 @@ Python3
 ```python3
 a,b =map(int,input().split())#如果用逗号间隔，可以用split(",")
 print("{}".format(a+b))
-
 ```
 
 java
@@ -37,7 +38,7 @@ java
 ```java
 import java.util.Scanner;//一、导入输入的包
 
-public class Scan {
+public class Test1 {
 	public static void main(String args[]) {
 		int a, b;
 		Scanner input = new Scanner(System.in);//创建对象
@@ -90,7 +91,7 @@ java
 
 ```java
 import java.util.Scanner;
-public class Yearpd {
+public class Test2 {
 	public static void main(String args[]) {
 		Scanner input=new Scanner(System.in);
 		int year;
@@ -142,7 +143,7 @@ swap(a,b)
 java 
 
 ```java
-public class Swap {
+public class Test3 {
 	public static void main(String[] args) {
 		Swap swap=new Swap();
 		int a=4,b=5;
@@ -198,7 +199,7 @@ java
 
 ```java
 //java用递归实现这个程序
-public class TenPlus {
+public class Test4 {
 	public static void main(String[] args) {
 		byte n=10;
 		//创建对象
